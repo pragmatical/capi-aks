@@ -14,7 +14,7 @@ spec:
   interval: 5m
   values:
     name: southcentralus-cluster01-aks
-    subscriptionId: 08deddba-0366-4dd8-81f9-c37b7b44f7ce
+    subscriptionId: 
     clusterResourceGroup: capi-aks-clusters
     controlAgentPoolName: cacluster01
     workerAgentPoolName:  wacluster01
